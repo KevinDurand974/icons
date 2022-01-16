@@ -32,7 +32,7 @@ To use these icons, write:
 
 To use it, place the `custom` folder wherever you want (in your project).<br>
 On react, more like `/assets`, `/assets/fonts`, ...<br>
-On normal, in your index.html ...<br>
+On normal, next to index.html ...<br>
 
 You have to bind the `custom.css` with your app (as a `style.css` file) and that's all.
 
