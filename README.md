@@ -42,4 +42,4 @@ You have to bind the `custom.css` with your app (as a `style.css` file) and that
 
 #### Icons Preview
 
-![preview](https://i.imgur.com/LcwS3eb.png)
+![preview](https://i.imgur.com/KiILzHl.png)
