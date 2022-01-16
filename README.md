@@ -1,13 +1,13 @@
 # Content :
 
-> 1 folder: custom
+> 1 folder: custom<br>
 > 1 folder: Example
 
 ---
 
 ### Example :
 
-You can watch any icons by opening `demo.html` into any browser.
+You can watch any icons by opening `demo.html` into any browser.<br>
 You will see all icons names.
 
 Example: [icon] icon-github
@@ -30,9 +30,9 @@ To use these icons, write:
 
 ### Custom :
 
-To use it, place the `custom` folder wherever you want (in your project).
-On react, more like `/assets`, `/assets/fonts`, ...
-On normal, in your index.html ...
+To use it, place the `custom` folder wherever you want (in your project).<br>
+On react, more like `/assets`, `/assets/fonts`, ...<br>
+On normal, in your index.html ...<br>
 
 You have to bind the `custom.css` with your app (as a `style.css` file) and that's all.
 
