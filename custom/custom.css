@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'custom';
-  src: url('custom.eot?54643756');
-  src: url('custom.eot?54643756#iefix') format('embedded-opentype'),
-       url('custom.woff2?54643756') format('woff2'),
-       url('custom.woff?54643756') format('woff'),
-       url('custom.ttf?54643756') format('truetype'),
-       url('custom.svg?54643756#custom') format('svg');
+  src: url('custom.eot?19515838');
+  src: url('custom.eot?19515838#iefix') format('embedded-opentype'),
+       url('custom.woff2?19515838') format('woff2'),
+       url('custom.woff?19515838') format('woff'),
+       url('custom.ttf?19515838') format('truetype'),
+       url('custom.svg?19515838#custom') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'custom';
-    src: url('custom.svg?54643756#custom') format('svg');
+    src: url('custom.svg?19515838#custom') format('svg');
   }
 }
 */
@@ -192,18 +192,8 @@
 .icon-responsive:before { content: '\e887'; } /* '' */
 .icon-notion:before { content: '\e888'; } /* '' */
 .icon-copy:before { content: '\e889'; } /* '' */
-.icon-stress:before { content: '\e88a'; } /* '' */
-.icon-reactivite:before { content: '\e88b'; } /* '' */
-.icon-autonomie:before { content: '\e88c'; } /* '' */
-.icon-patience:before { content: '\e88d'; } /* '' */
-.icon-communication:before { content: '\e88e'; } /* '' */
-.icon-adaptation:before { content: '\e88f'; } /* '' */
-.icon-decision:before { content: '\e890'; } /* '' */
-.icon-travail-equipe:before { content: '\e891'; } /* '' */
-.icon-perseverance:before { content: '\e892'; } /* '' */
 .icon-prepros-v2:before { content: '\e893'; } /* '' */
 .icon-prepros:before { content: '\e894'; } /* '' */
-.icon-organisation:before { content: '\e895'; } /* '' */
 .icon-stackoverflow:before { content: '\e896'; } /* '' */
 .icon-linkedin:before { content: '\e897'; } /* '' */
 .icon-game:before { content: '\e898'; } /* '' */
@@ -234,3 +224,13 @@
 .icon-close-v7:before { content: '\e8b1'; } /* '' */
 .icon-close-v6:before { content: '\e8b2'; } /* '' */
 .icon-close-v5:before { content: '\e8b3'; } /* '' */
+.icon-trait-v10:before { content: '\e8b4'; } /* '' */
+.icon-trait-v1:before { content: '\e8b5'; } /* '' */
+.icon-trait-v2:before { content: '\e8b6'; } /* '' */
+.icon-trait-v3:before { content: '\e8b7'; } /* '' */
+.icon-trait-v4:before { content: '\e8b8'; } /* '' */
+.icon-trait-v5:before { content: '\e8b9'; } /* '' */
+.icon-trait-v6:before { content: '\e8ba'; } /* '' */
+.icon-trait-v7:before { content: '\e8bb'; } /* '' */
+.icon-trait-v8:before { content: '\e8bc'; } /* '' */
+.icon-trait-v9:before { content: '\e8bd'; } /* '' */
