@@ -37,3 +37,9 @@ On normal, next to index.html ...<br>
 You have to bind the `custom.css` with your app (as a `style.css` file) and that's all.
 
 ## Contains No Copyright, so use it as you want
+
+---
+
+#### Icons Preview
+
+![preview](https://i.imgur.com/LcwS3eb.png)
